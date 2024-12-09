@@ -13,6 +13,7 @@
     "subtitle",
     "no wasm"
   ],
+  "homepage": "https://github.com/renmu123/artplayer-plugin-assjs",
   "author": "renmu123",
   "license": "MIT",
   "devDependencies": {
