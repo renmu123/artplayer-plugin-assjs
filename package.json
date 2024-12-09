@@ -1,6 +1,6 @@
 {
   "name": "artplayer-plugin-assjs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A artplayer plugin with assjs",
   "main": "./src/index.js",
   "types": "./types/index.d.ts",
