@@ -1,0 +1,24 @@
+{
+  "name": "artplayer-plugin-assjs",
+  "version": "0.1.0",
+  "description": "A artplayer plugin with assjs",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
+  "scripts": {},
+  "keywords": [
+    "artplayer",
+    "video",
+    "ass",
+    "assjs",
+    "subtitle",
+    "no wasm"
+  ],
+  "author": "renmu123",
+  "license": "MIT",
+  "devDependencies": {
+    "artplayer": "^5.2.1"
+  },
+  "dependencies": {
+    "assjs": "^0.1.3"
+  }
+}

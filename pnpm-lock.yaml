@@ -1,0 +1,46 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      assjs:
+        specifier: ^0.1.3
+        version: 0.1.3
+    devDependencies:
+      artplayer:
+        specifier: ^5.2.1
+        version: 5.2.1
+
+packages:
+
+  artplayer@5.2.1:
+    resolution: {integrity: sha512-xhNE9zSLT2z4O2CJwcMSWADsS3Cvq0PwNanvMzRsqgfUhsMOpum8HlMtIUPOTyMGjIhKV8sl109HFUalQK6WJQ==}
+
+  assjs@0.1.3:
+    resolution: {integrity: sha512-EfztH3E42c5r31l9Q0CaWAxYBlER03e6mjMQ/K4GBP5yOfJDv0dWdwhadb4r3Mo65uOiju3Z7i6LJbjN1aqFdw==}
+
+  kind-of@6.0.3:
+    resolution: {integrity: sha512-dcS1ul+9tmeD95T+x28/ehLgd9mENa3LsvDTtzm3vyBEO7RPptvAD+t44WVXaUjTBRcrpFeFlC8WCruUR456hw==}
+    engines: {node: '>=0.10.0'}
+
+  option-validator@2.0.6:
+    resolution: {integrity: sha512-tmZDan2LRIRQyhUGvkff68/O0R8UmF+Btmiiz0SmSw2ng3CfPZB9wJlIjHpe/MKUZqyIZkVIXCrwr1tIN+0Dzg==}
+
+snapshots:
+
+  artplayer@5.2.1:
+    dependencies:
+      option-validator: 2.0.6
+
+  assjs@0.1.3: {}
+
+  kind-of@6.0.3: {}
+
+  option-validator@2.0.6:
+    dependencies:
+      kind-of: 6.0.3
