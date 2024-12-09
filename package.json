@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "A artplayer plugin with assjs",
   "main": "./src/index.js",
-  "types": "./src/index.d.ts",
+  "types": "./types/index.d.ts",
   "scripts": {},
   "keywords": [
     "artplayer",
