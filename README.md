@@ -2,8 +2,6 @@
 
 `artplayer-plugin-assjs` is a plugin for loading ASS subtitles without webAssembly in Artplayer.
 
-Not support artplayer 5.2.1
-
 ## Installation
 
 `npm i artplayer-plugin-assjs`
